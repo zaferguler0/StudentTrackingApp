@@ -5,7 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This project is a basic students tracking system application.
-You can add student, delete, uptade and selecet avatar for student.
+<You can add student, delete, uptade and selecet avatar for student./>
 
 ## Images
 
