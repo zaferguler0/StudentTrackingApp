@@ -8,7 +8,9 @@ This project is a basic Flutter application.
 
 ## Images
 
-![Screenshot_20201022_174938](https://user-images.githubusercontent.com/30291617/96889347-2fd06f00-148f-11eb-8108-50e109278d24.png =700x500)
+<img src="https://user-images.githubusercontent.com/30291617/96889347-2fd06f00-148f-11eb-8108-50e109278d24.png" width="700" height="700"/>
+
+![Screenshot_20201022_174938](https://user-images.githubusercontent.com/30291617/96889347-2fd06f00-148f-11eb-8108-50e109278d24.png)
 
 ![Screenshot_20201022_174957](https://user-images.githubusercontent.com/30291617/96889382-36f77d00-148f-11eb-8b92-7cb043bf00d9.png)
 
