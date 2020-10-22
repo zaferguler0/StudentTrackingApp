@@ -1,4 +1,4 @@
-# ogrenciTakipSistemi
+# Student Tracking App
 
 A new Flutter application.
 
